@@ -1,0 +1,23 @@
+body {
+  background-color: #f000f0;
+  font-family: monospace;
+  color: #222;
+  padding: 40px;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  background: white;
+  padding: 30px;
+  border: 1px solid #ccc;
+}
+
+a {
+  color: darkblue;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
