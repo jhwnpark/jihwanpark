@@ -1,21 +1,12 @@
 body {
-  background-color: #f0f0f0;
-  font-family: monospace;
-  color: #222;
-  padding: 40px;
-}
-
-.container {
-  max-width: 600px;
-  margin: auto;
-  background: white;
-  padding: 30px;
-  border: 1px solid #ccc;
+  font-family: 'Courier New', monospace;
+  background-color: #ffffcc;
+  color: #000080;
 }
 
 a {
-  color: darkblue;
-  text-decoration: none;
+  color: #800000;
+  text-decoration: underline;
 }
 
 a:hover {
