@@ -1,12 +1,13 @@
 body {
-  font-family: 'Courier New', monospace;
-  background-color: #ffffcc;
-  color: #000080;
+  background-color: #f0f0f0;
+  font-family: monospace;
+  color: #222;
+  padding: 40px;
 }
 
 a {
-  color: #800000;
-  text-decoration: underline;
+  color: darkblue;
+  text-decoration: none;
 }
 
 a:hover {
